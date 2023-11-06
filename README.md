@@ -48,7 +48,7 @@ Request Body:
 }
 ```
 
-This request didn't return any json file. Most of the API backend will return json body
+This request didn't return any JSON file. Most of the other API backends will return JSON body
 
 ### Get Receivable
 
@@ -82,7 +82,7 @@ Request Body:
 }
 ```
 
-This request didn't return any json file. Most of the API backend will return json body
+This request didn't return any JSON file. Most of the other API backends will return JSON body
 
 ### Delete Receivable
 
@@ -90,7 +90,7 @@ Method: DELETE
 
 URL: /:id
 
-This request didn't return any json file. Most of the API backend will return json body
+This request didn't return any JSON file. Most of the other API backends will return JSON body
 
 ## Support
 
